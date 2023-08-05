@@ -1,0 +1,281 @@
+.main{
+	height:4000px;
+	width:1200px;
+	background-color: lightgrey;
+}
+.b{
+	height:500px;
+	width:1200px;
+	background-image:url('../images/chap.jpg');
+	background-size: 1500px 700px;
+	background-repeat: no-repeat;
+}
+.minush1{
+	margin-top: -20px;
+}
+.c{
+	height:300px;
+	width:1200px;
+	background-color: red;
+}
+.a1{
+	height:300px;
+	width:400px;
+	background-image:url('../images/ccake.jpeg');
+	background-repeat: no-repeat;
+	background-size: 400px 300px;
+	float:left;
+}
+.a2{
+	height:300px;
+	width:400px;
+	background-color: floralwhite;
+	float:left;
+}
+.a3{
+	height:300px;
+	width:400px;
+	background-image:url('../images/strw.jpeg');
+	background-repeat: no-repeat;
+	background-size: 400px 300px;
+	float:left;
+}
+.d{
+	height:300px;
+	width:1200px;
+	background-color: green;
+}
+.a4{
+	height:300px;
+	width:400px;
+	background-color: floralwhite;
+	float:left;
+}
+.a5{
+	height:300px;
+	width:400px;
+	background-image:url('../images/badamm.webp');
+	background-repeat: no-repeat;
+	background-size: 400px 300px;
+	float:left;
+}
+.a6{
+	height:300px;
+	width:400px;
+	background-color: floralwhite;
+	float:left;
+}
+.e{
+	height:400px;
+	width:1200px;
+}
+.b1{
+	height:300px;
+	width:250px;
+	margin-left:100px;
+	float:left;
+}
+.b2{
+	height:300px;
+	width:250px;
+	margin-left:100px;
+	float:left;
+}
+.b3{
+	height:300px;
+	width:250px;
+	margin-left:100px;
+	float:left;
+}
+.rm{
+	height:20px;
+	width:100px;
+	padding: 10px;
+	border:2px solid black;
+}
+.f{
+	height:500px;
+	width:1200px;
+	background-image:url('../images/winechi.jpg');
+	background-size: 1200px 500px;
+	background-repeat: no-repeat;
+}
+.g{
+	height:500px;
+	width:1200px;
+}
+.c1{
+	height:400px;
+	width:400px;
+	margin-left:100px;
+	float:left;
+}
+.c2{
+	height:400px;
+	width:400px;
+	margin-left:100px;
+	float:left;
+}
+.h{
+	height:400px;
+	width:1200px;
+	background-color: red;
+}
+.d1{
+	height:400px;
+	width:600px;
+	background-image:url('../images/winechi.jpg');
+	background-size: 600px 400px;
+	background-repeat: no-repeat;
+	float:left;
+}
+.d2{
+	height:400px;
+	width:600px;
+	float:right;
+}
+.d3{
+	height:200px;
+	width:600px;
+	background-image:url('../images/cakemak.jpg');
+	background-size: 600px 200px;
+	background-repeat: no-repeat;
+}
+.d4{
+	height:200px;
+	width:300px;
+	background-image:url('../images/pizza.jpeg');
+	background-size: 300px 200px;
+	background-repeat: no-repeat;
+	float:left;
+}
+.d5{
+	height:200px;
+	width:300px;
+	background-image:url('../images/ccake1.jpg');
+	background-size: 300px 200px;
+	background-repeat: no-repeat;
+	float:left;
+}
+.j{
+	height:250px;
+	width:1200px;
+}
+.e1{
+	height:250px;
+	width:200px;
+	margin-left:90px;
+	float:left;
+}
+.e2{
+	height:200px;
+	width:200px;
+	background-color: black;
+	border-radius: 50%;
+	float:left;
+}
+.col{
+	color:white;
+}
+.z1{
+	margin-top: 10px;
+}
+.padd{
+	padding:4px;
+}
+.tc{
+	color:blue;
+	margin-top: 0px;
+}
+.colb{
+	color: blue;
+	display: inline;
+}
+.k{
+	height:207px;
+	width:1200px;
+	background-color: black;
+}
+.colw{
+	color: white;
+	display:inline;
+}
+.bcol{
+	color:white;
+	position: relative;
+	top:100px;
+	left:450px;
+}
+.y1{
+	height:2px;
+	width:200px;
+	background-color: white;
+	position: relative;
+	top:90px;
+	left:450px;
+}
+.bcol1{
+	color:white;
+	position: relative;
+	top:75px;
+	left:450px;
+}
+.colww{
+	color:white;
+	margin-left: 20px;
+}
+.x{
+	position: relative;
+	top:80px;
+	left:300px;
+}
+.x1{
+	position: relative;
+	top:130px;
+	left:350px;
+}
+.x2{
+	margin-left: 200px;
+}
+.v1{
+	height:2px;
+	width:30px;
+	background-color: white;
+	position:relative;
+	top:90px;
+	left:515px;
+}
+.v2{
+	height:2px;
+	width:30px;
+	background-color: white;
+	position:relative;
+	top:93px;
+	left:515px;
+}
+.v3{
+	height:2px;
+	width:30px;
+	background-color: white;
+	position:relative;
+	top:96px;
+	left:515px;
+}
+.pos1{
+	color: white;
+	position: relative;
+	top:140px;
+	left:500px;
+}
+.pos2{
+	color: white;
+	position: relative;
+	top:120px;
+	left:420px;
+}
+.pos3{
+	color: white;
+	position: relative;
+	top:100px;
+	left:450px;
+}
